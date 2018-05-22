@@ -1,0 +1,11 @@
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\bin\Debug\ScrumTableÖdev.exe.config
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\bin\Debug\ScrumTableÖdev.exe
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\bin\Debug\ScrumTableÖdev.pdb
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.Properties.Resources.resources
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.csproj.GenerateResource.Cache
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.csproj.CoreCompileInputs.cache
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.exe
+c:\users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.pdb
+C:\Users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.csprojResolveAssemblyReference.cache
+C:\Users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\bin\Debug\Bilgiler.accdb
+C:\Users\barut\source\repos\ScrumTableÖdev\ScrumTableÖdev\obj\Debug\ScrumTableÖdev.ScrumBoard.resources
